@@ -4,9 +4,15 @@
 
 ## Getting started
 
-## Resources
+To use **Hipay Professional** payments you need to previously create an account. To create a sandbox (test purposes) account please use https://test-www.hipaydirect.com/registration/register and for a live account please use https://www.hipaydirect.com/registration/register.
+
+## Configuration
+
+
 
 ## Features
+
+Provide local and international payment methods using an Hipay Professional account, integrated with GoodLayers Tourmaster. GoodLayers Tourmaster, a Premium WordPress plugin that comes with most complete tour management system. This plugin is especially designed for tour operator, tour package, travel agency, travel ticket seller, transportation ticket and much more.
 
 ## License
 
