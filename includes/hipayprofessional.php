@@ -2,7 +2,7 @@
 /* 
 Version: 1.0.0
 Author: Diogo Ferreira - HiPay Portugal
-License:
+License: Apache License 2.0
 */
 
 /*
